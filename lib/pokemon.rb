@@ -46,7 +46,7 @@
 #   end
 # end
 
-Merline [12:49 PM]
+
 class Pokemon
  attr_accessor :id, :name, :type, :hp, :db
 
